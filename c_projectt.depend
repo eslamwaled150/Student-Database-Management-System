@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1693666685 source:c:\users\dell\onedrive\desktop\soly\c_projectt\sdb.c
+	<stdio.h>
+	"STD.h"
+	"SDB.h"
+
+1693640628 c:\users\dell\onedrive\desktop\soly\c_projectt\sdb.h
+	"STD.h"
+
+1693493348 c:\users\dell\onedrive\desktop\soly\c_projectt\std.h
+
+1693660330 source:c:\users\dell\onedrive\desktop\soly\c_projectt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1693490858 c:\users\dell\onedrive\desktop\soly\c_projectt\sdbapp.c
+	<stdio.h>
+	"STD.h"
+	"SDB.c"
+
+1693659863 source:c:\users\dell\onedrive\desktop\soly\c_projectt\sdbapp.c
+	"SDBAPP.h"
+
+1693493339 c:\users\dell\onedrive\desktop\soly\c_projectt\sdb.c
+	<stdio.h>
+	"STD.h"
+	"SDB.h"
+
+1693641064 c:\users\dell\onedrive\desktop\soly\c_projectt\sdbapp.h
+	<stdio.h>
+	"STD.h"
+	"SDB.h"
+
