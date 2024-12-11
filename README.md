@@ -4,16 +4,16 @@
 
 ##Features:
 
--Maximum of 10 students and a minimum of 3 students in the database.
--Perform operations such as:
--Add a new student entry.
--Delete an existing student entry.
--Check if the database is full.
--Get the number of students in the database.
--Retrieve student details by ID.
--List all student IDs.
--Check if a specific student ID exists.
--Project Structure
+- Maximum of 10 students and a minimum of 3 students in the database.
+- Perform operations such as:
+- Add a new student entry.
+- Delete an existing student entry.
+- Check if the database is full.
+- Get the number of students in the database.
+- Retrieve student details by ID.
+- List all student IDs.
+- Check if a specific student ID exists.
+- Project Structure
 
 ##Header Files:
 
