@@ -1,6 +1,7 @@
 # Student Database Management System
 
-## This project implements a Student Database Management System using C, following the modular programming concept. It supports various operations such as adding, deleting, reading, and checking student data in the database.
+## Project Overview
+This project implements a Student Database Management System using the C programming language, following the modular programming concept. The system allows users to efficiently manage student data by supporting operations like adding, deleting, reading, and validating student information.
 
 ### Features:
 
@@ -26,7 +27,18 @@
 - SDBAPP.c: Contains the main application logic and user interaction.
 - main.c: The entry point for the program.
 
-### System Requirements
-- A C compiler (e.g., GCC, Clang, or MSVC).
-- Compatible operating system: Windows, Linux, or macOS.
-- Sufficient memory to manage the student data in runtime.
+### Software Tools
+- C Compiler: GCC, Clang, or equivalent.
+- Text Editor or IDE: Code::Blocks, Visual Studio, or any C-compatible IDE.
+- Operating System: Windows, Linux, or macOS.
+
+### Hardware (Optional for Embedded Systems)
+1. ATmega32 microcontroller.
+2. LCD Display for data visualization.
+3. Keypad for user input.
+4. External memory for persistent storage.
+
+### Notes
+- Ensure valid input to prevent errors.
+- Database is volatile and will reset upon program termination.
+- Increase the maximum number of students by modifying the MAX_STUDENTS constant in the header file.
