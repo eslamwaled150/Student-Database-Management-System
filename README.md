@@ -1,3 +1,4 @@
+##Student Database Management System
 This project implements a Student Database Management System using C, following the modular programming concept. It supports various operations such as adding, deleting, reading, and checking student data in the database.
 
 Features
