@@ -3,6 +3,11 @@
 ## Project Overview
 This project implements a Student Database Management System using the C programming language, following the modular programming concept. The system allows users to efficiently manage student data by supporting operations like adding, deleting, reading, and validating student information.
 
+## System Description
+- The project consists of two main components:
+1. Database Module: Handles all student data operations.
+2. Application Module: Provides the user interface and controls the program flow.
+
 ### Features:
 
 - Maximum of 10 students and a minimum of 3 students in the database.
