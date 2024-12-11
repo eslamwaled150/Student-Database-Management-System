@@ -25,3 +25,8 @@
 - SDB.c: Implements all database-related functionalities.
 - SDBAPP.c: Contains the main application logic and user interaction.
 - main.c: The entry point for the program.
+
+### System Requirements
+- A C compiler (e.g., GCC, Clang, or MSVC).
+- Compatible operating system: Windows, Linux, or macOS.
+- Sufficient memory to manage the student data in runtime.
